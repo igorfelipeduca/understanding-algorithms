@@ -1,4 +1,4 @@
-# Undersanding Algorithms
+# Understanding Algorithms
 
 ---
 
